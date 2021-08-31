@@ -3,3 +3,6 @@
 auto <- mtcars
 head(auto)
 summary(auto)
+
+#Agregar nuevas Lineas de codigo
+summary(iris)
